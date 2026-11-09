@@ -1,0 +1,17 @@
+NOTICE
+
+Gemma is provided under and subject to the Gemma Terms of Use found at gemma.ai/resources/terms
+
+This release distributes unmodified model artifacts from the LiteRT Community.
+
+Sources:
+- https://huggingface.co/litert-community/Gemma3-1B-IT
+  (gemma3-1b-it-int4.litertlm)
+- https://huggingface.co/litert-community/embeddinggemma-300m
+  (embeddinggemma-300M_seq512_mixed-precision.tflite)
+
+The Gemma Terms of Use, including the use restrictions in Section 3.2, govern
+the use and distribution of these artifacts. A copy of the terms is provided in
+GEMMA_TERMS.md.
+
+Gemma and EmbeddingGemma are trademarks of Google LLC.
